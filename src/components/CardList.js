@@ -19,9 +19,9 @@ import Card from '../components/Card';
 // }
 
 const CardList = ({robots}) => {
-    if(true) {
-        throw new Error('NOOOOO!')    
-    }
+    // if(true) {
+    //     throw new Error('NOOOOO!')    
+    // }
     return (
             <div>
              {
